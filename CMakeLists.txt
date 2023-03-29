@@ -11,12 +11,12 @@ include_directories(
     ${Boost_INCLUDE_DIRS}
     )
 
-add_executable(${PROJECT_NAME} voronoi.cpp)
+add_executable(${PROJECT_NAME} src/voronoi.cpp)
 
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS} ${Boost_LIBRARIES})
 
-# add_executable(four_dimensional fourd.cpp)
+# add_executable(four_dimensional src/fourd.cpp)
 # target_link_libraries(four_dimensional ${OpenCV_LIBS} ${Boost_LIBRARIES})
 
-add_executable(vor voronoi2.cpp)
+add_executable(vor src/voronoi2.cpp)
 target_link_libraries(vor ${OpenCV_LIBS} ${Boost_LIBRARIES})

@@ -1,4 +1,0 @@
-/Users/danendracleveroananda/Documents/Projects/Robot/voronoi/build/CMakeFiles/voronoi.dir
-/Users/danendracleveroananda/Documents/Projects/Robot/voronoi/build/CMakeFiles/vor.dir
-/Users/danendracleveroananda/Documents/Projects/Robot/voronoi/build/CMakeFiles/edit_cache.dir
-/Users/danendracleveroananda/Documents/Projects/Robot/voronoi/build/CMakeFiles/rebuild_cache.dir
